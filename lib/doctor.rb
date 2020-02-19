@@ -17,4 +17,8 @@ class Doctor
     Appointment.new(patient, self)
   end
 
+  def appointments
+
+  end
+
 end
