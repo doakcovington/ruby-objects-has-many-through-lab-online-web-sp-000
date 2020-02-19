@@ -28,4 +28,4 @@ class Patient
       appointment.doctor
     end
   end
-  end
+end
